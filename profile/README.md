@@ -1,46 +1,23 @@
-# 🎙️ VIVID Avatar Team @ ByteDance
+# Welcome to 👾 VIVID Avatar Team @ ByteDance
 
-We are the **VIVID** (**V**oice **I**ntegrated **V**ideo **I**mmersive **D**igital) Avatar Team at ByteDance, dedicated to **cutting-edge research on audio-visual digital human generation**.
+We are the **VIVID** (**V**oice **I**ntegrated **V**ideo **I**mmersive **D**igital) Avatar Team at [ByteDance](https://www.bytedance.com/en/), dedicated to **cutting-edge research on audio-visual digital human generation**. We are continuously exploring the boundaries of the technology, from lifelike speech synthesis to expressive, long-form video avatars.
 
----
+## 💻 Research Projects
 
-## 🚀 Research Projects
-
-### 🎵 Audio Synthesis
-- **MegaTTS3**  
-  *Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis*  
-  [📄 Paper](https://arxiv.org/abs/2502.18924) | [💻 Code](https://github.com/bytedance/MegaTTS3)
-
+### 🎙️ Voice Synthesis
+- **MegaTTS3**: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis   
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.18924) 
+ [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/ByteDance/MegaTTS3) [![Demo](https://img.shields.io/badge/🚀%20Demo%20Page-blue)](https://sditdemo.github.io/sditdemo/) [![GitHub Stars](https://img.shields.io/github/stars/bytedance/MegaTTS3?style=social)](https://github.com/bytedance/MegaTTS3)
+- **Make-An-Audio 2**: Temporal-Enhanced Text-to-Audio Generation  
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2305.18474) [![Demo](https://img.shields.io/badge/🚀%20Demo%20Page-blue)](https://make-an-audio-2.github.io/) [![GitHub Stars](https://img.shields.io/github/stars/bytedance/Make-An-Audio-2?style=social)](https://github.com/bytedance/Make-An-Audio-2)
 - **Text-to-Speech Synthesis with Chain-of-Thought Style Reasoning**
 
-- **Make-An-Audio 2**  
-  *Temporal-Enhanced Text-to-Audio Generation*  
-  [📄 Paper](https://arxiv.org/abs/2305.18474) | [💻 Code](https://github.com/bytedance/Make-An-Audio-2)
-
----
-
 ### 🎥 Video Generation
-- **InfinityHuman**  
-  *Towards Long-Term Audio-Driven Human Animation*
-
-- **HumanDiT**  
-  *Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation*  
-  [📄 Paper](https://arxiv.org/abs/2502.04847) | [🌐 Demo Page](https://agnjason.github.io/HumanDiT-page/)
-
-- **DiTalker**  
-  *Fast and Expressive Audio-Driven Talking Face Generation with Dual Diffusion Transformers*
-
-- **MimicTalk** (_NeurIPS 2024_)  
-  *Mimicking a Personalized and Expressive 3D Talking Face in Minutes*  
-  [📄 Paper](https://arxiv.org/abs/2410.06734) | [💻 Code](https://github.com/yerfor/MimicTalk)
-
-- **Real3D-Portrait** (_ICLR 2024 Spotlight_)  
-  *One-shot Realistic 3D Talking Portrait Synthesis*  
-  [📄 Paper](https://arxiv.org/abs/2401.08503) | [💻 Code](https://github.com/yerfor/Real3DPortrait)
-
-- **Ada-TTA**  
-  *Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis*
-
----
-
-💡 *We are continuously exploring the boundaries of digital human technology — from lifelike speech synthesis to expressive, long-form video avatars.*
+- **HumanDiT**: *Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation*  
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.04847) [![Demo](https://img.shields.io/badge/🚀%20Demo%20Page-blue)](https://agnjason.github.io/HumanDiT-page/)
+- **MimicTalk** *(NeurIPS 2024)*: *Mimicking a Personalized and Expressive 3D Talking Face in Minutes*  
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2410.06734) [![Demo](https://img.shields.io/badge/🚀%20Demo%20Page-blue)](https://mimictalk.github.io/) [![GitHub Stars](https://img.shields.io/github/stars/yerfor/MimicTalk?style=social)](https://github.com/yerfor/MimicTalk)
+- **Real3D-Portrait** *(ICLR 2024 Spotlight)*: *One-shot Realistic 3D Talking Portrait Synthesis*  
+   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2401.08503)  [![Demo](https://img.shields.io/badge/🚀%20Demo%20Page-blue)](https://real3dportrait.github.io/) [![GitHub Stars](https://img.shields.io/github/stars/yerfor/Real3DPortrait?style=social)](https://github.com/yerfor/Real3DPortrait) 
+- **DiTalker**: *Fast and Expressive Audio-Driven Talking Face Generation with Dual Diffusion Transformers*
+- **Ada-TTA**: *Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis*
