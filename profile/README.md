@@ -1,4 +1,11 @@
-# Welcome to 👾 VIVID Avatar Team @ ByteDance
+<div align="center">
+    <h1>
+    👾 VIVID Avatar Team <img src="./assets/fig/Hi.gif" width="40px">
+    </h1>
+    <p>
+    ByteDance<br>
+    </p>
+</div>
 
 We are the **VIVID** (**V**oice **I**ntegrated **V**ideo **I**mmersive **D**igital) Avatar Team at [ByteDance](https://www.bytedance.com/en/), dedicated to **cutting-edge research on audio-visual digital human generation**. We are continuously exploring the boundaries of the technology, from lifelike speech synthesis to expressive, long-form video avatars.
 
