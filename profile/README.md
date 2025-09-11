@@ -12,7 +12,7 @@ We are the **VIVID** (**V**oice **I**ntegrated **V**ideo **I**mmersive **D**igit
 ## 💻 Research Projects
 
 ### 🎙️ Voice Synthesis
-- **MegaTTS3**: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis   
+- **MegaTTS 3**: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis   
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.18924) 
  [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/ByteDance/MegaTTS3) [![Demo](https://img.shields.io/badge/🚀%20Demo%20Page-blue)](https://sditdemo.github.io/sditdemo/) [![GitHub Stars](https://img.shields.io/github/stars/bytedance/MegaTTS3?style=social&label=GitHub+Stars)](https://github.com/bytedance/MegaTTS3)
 - **Make-An-Audio 2**: Temporal-Enhanced Text-to-Audio Generation  
