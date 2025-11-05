@@ -20,6 +20,8 @@ We are the **VIVID** (**V**oice **I**ntegrated **V**ideo **I**mmersive **D**igit
 - **Text-to-Speech Synthesis with Chain-of-Thought Style Reasoning**
 
 ### 🎥 Video Generation
+- **InfinityHuman**: *Towards Long-Term Audio-Driven Human Animation*  
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2508.20210) [![Demo](https://img.shields.io/badge/🚀%20Demo%20Page-blue)](https://infinityhuman.github.io/)
 - **HumanDiT**: *Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation*  
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.04847) [![Demo](https://img.shields.io/badge/🚀%20Demo%20Page-blue)](https://agnjason.github.io/HumanDiT-page/)
 - **MimicTalk** *(NeurIPS 2024)*: *Mimicking a Personalized and Expressive 3D Talking Face in Minutes*  
